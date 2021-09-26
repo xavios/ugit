@@ -1,0 +1,5 @@
+autopep8==1.5.7
+pycodestyle==2.7.0
+toml==0.10.2
+# Editable Git install with no remote (ugit==1.0)
+-e /home/andras/dev/andras/ugit
